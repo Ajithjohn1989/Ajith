@@ -29,3 +29,14 @@ def factorial(n):
 #you can choose any value of n, let say 5
 fact = factorial(5)
 print(fact)
+case
+2:
+print(my_list.update)
+case
+3:
+print(my_list.remove)
+case
+4:
+print(my_list
+case
+5
